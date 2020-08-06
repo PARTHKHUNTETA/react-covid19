@@ -91,7 +91,8 @@ function LineGraph({ casesType = "cases" }) {
                             borderColor: "#CC1034",
                             data: data
                         }]
-                }} />)}
+                }} />
+            )}
 
         </div>
     )
